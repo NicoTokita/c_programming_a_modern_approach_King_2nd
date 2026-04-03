@@ -12,3 +12,4 @@ n_ex_number_subNumber (n is chapter number, ex means exercise, number means exer
 n_pp_number_subnumber
 
 Note that Subnumber might not always be available.
+Note: I already almost finished Chapter 5, I'll commit the previous stuff later. = ).
