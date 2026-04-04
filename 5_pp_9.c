@@ -20,6 +20,9 @@ int main(void)
     {
         printf("%d/%d/%d is earlier than %d/%d/%d", month2, day2, year2, month1, day1, year1);
     }
+
+    //Note that this code will be totally useless in any real life scenario as we are using a rounded up days for months and years.
+    // So it might generate innacurate answeres sometimes, probably.
     
     return 0;
 }
