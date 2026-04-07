@@ -35,7 +35,6 @@ int main(void)
                 break;
             case 4:
                 return 0;
-                break;
             default:
             printf("Commands: 0 => Clear | 1 => Credit | 2 => Debit | 3 => Balance | 4 => Exit\n\n");
         }
