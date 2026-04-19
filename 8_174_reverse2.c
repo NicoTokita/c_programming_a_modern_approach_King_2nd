@@ -14,7 +14,7 @@ int main(void)
     
     int set[numbers];
 
-    printf("Enter the numbers to be reversed: ");
+    printf("Enter the %d numbers to be reversed: ", numbers);
     for(int i = 0; i < numbers; i++)
     {
         scanf("%d", &set[i]);
